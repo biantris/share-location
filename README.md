@@ -1,4 +1,4 @@
-### Share Location
+### Share Location 🗺️
 
 - [x] Google Maps API
 - [ ] Consuming location through of your location dispositive
